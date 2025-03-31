@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#flower {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 0.25rem;
+}
